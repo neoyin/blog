@@ -3,7 +3,8 @@ title: 论二维码的原理及生成
 date: 2014-02-17 16:56
 Author: neoyin
 categories: 技术流
-tags: QRcode
+tags:
+ - QRcode
 permalink: qrcode-generate
 ---
 

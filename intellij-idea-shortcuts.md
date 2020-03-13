@@ -3,7 +3,8 @@ title:  Intellij Ideal 快捷键
 date: 2015-12-27 13:29
 Author: Neo
 categories: 每天进步一点点
-tags: idea
+tags:
+ - idea
 permalink: intellij-idea-shortcuts
 ---
 

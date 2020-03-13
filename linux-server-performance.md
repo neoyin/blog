@@ -3,7 +3,8 @@ title: Linux服务器性能评估(转)
 date: 2014-02-11 10:23
 Author: neoyin
 categories: 技术流
-tags: linux
+tags:
+ - linux
 permalink: linux-server-performance
 ---
 

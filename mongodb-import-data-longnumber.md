@@ -3,7 +3,8 @@ title: 解决mongoexport导出数据时NumberLong问题
 date: 2014-10-08 09:00
 Author: neoyin
 categories: 技术流
-tags: mongodb
+tags:
+ - mongodb
 permalink: mongodb-import-data-longnumber
 ---
 

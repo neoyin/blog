@@ -3,7 +3,8 @@ title: 避免ssh超时自动断开连接
 date: 2014-07-17 17:45
 Author: chengz
 categories: 每天进步一点点
-tags: linux
+tags:
+ - linux
 permalink: ssh-timeout-auto-disconntect
 ---
 

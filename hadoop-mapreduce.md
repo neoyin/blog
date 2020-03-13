@@ -3,7 +3,8 @@ title: 打造分布式文件系统-Mapreduce
 date: 2013-11-01 12:05
 Author: neoyin
 categories: 技术流
-tags: hadoop
+tags:
+ - hadoop
 permalink: hadoop-mapreduce
 ---
 

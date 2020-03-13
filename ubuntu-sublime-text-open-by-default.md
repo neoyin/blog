@@ -3,7 +3,9 @@ title: Ubuntu下Sublime Text 2默认打开文本
 date: 2013-04-26 11:40
 Author: neoyin
 categories: 技术流
-tags: sublime,ubuntu
+tags:
+ - sublime
+ - ubuntu
 permalink: ubuntu-sublime-text-open-by-default
 ---
 

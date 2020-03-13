@@ -3,7 +3,8 @@ title: mahout入门示例
 date: 2013-10-28 20:38
 Author: chengz
 categories: 技术流
-tags: mahout
+tags:
+ - mahout
 permalink: mahout-sample
 ---
 

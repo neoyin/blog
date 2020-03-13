@@ -3,7 +3,9 @@ title: PageSpeed Insights 优化网站
 date: 2013-11-27 23:14
 Author: neoyin
 categories: 技术流
-tags: gzip,nginx
+tags:
+ - gzip
+ - nginx
 permalink: pagespeed-insights-optimize
 ---
 

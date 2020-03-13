@@ -3,7 +3,10 @@ title: Mac os Homebrew安装nginx
 date: 2013-12-05 17:04
 Author: neoyin
 categories: 技术流
-tags: macos,homebrew, nginx
+tags:
+ - macos
+ - homebrew
+ -  nginx
 permalink: mac-os-homebrew-install-nginx
 ---
 

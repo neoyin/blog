@@ -3,7 +3,9 @@ title: 利用Sonar及Maven 插件 进行代码质量检测管理
 date: 2013-07-20 10:11
 Author: neoyin
 categories: 技术流
-tags: maven,sonar
+tags:
+ - maven
+ - sonar
 permalink: sonar-maven-code-quality
 ---
 

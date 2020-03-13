@@ -3,7 +3,9 @@ title: apache mina 基础类研究(一):IoService方法详解
 date: 2013-12-15 23:16
 Author: fuqiang
 categories: 技术流
-tags: apache,mina
+tags:
+ - apache
+ - mina
 permalink: apache-mina-basic-ioService
 ---
 

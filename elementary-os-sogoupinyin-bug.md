@@ -3,7 +3,9 @@ title: Elementary OS 系统 sogoupinyin 问题
 date: 2016-09-15 13:59
 Author: neoyin
 categories: 技术流
-tags: ubuntu,elementary
+tags:
+ - ubuntu
+ - elementary
 permalink: elementary-os-sogoupinyin-bug
 ---
 

@@ -3,7 +3,9 @@ title: Linux中安装jenkins2
 date: 2016-10-13 09:29
 Author: neoyin
 categories: 技术流
-tags: linux,jenkins
+tags:
+ - linux
+ - jenkins
 permalink: linux-jenkins-install
 ---
 

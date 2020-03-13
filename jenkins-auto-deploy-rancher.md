@@ -3,7 +3,10 @@ title: Jenkins自动构建及通过Rancher API自动发布
 date: 2016-10-26 10:10
 Author: neoyin
 categories: 技术流
-tags: docker,rancher,jenkins
+tags:
+ - docker
+ - rancher
+ - jenkins
 permalink: jenkins-auto-deploy-rancher
 ---
 

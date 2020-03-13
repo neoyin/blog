@@ -3,7 +3,9 @@ title: 解决URL中的jessionid
 date: 2014-02-26 10:36
 Author: neoyin
 categories: 技术流
-tags: jessionid,tomcat
+tags:
+ - jessionid
+ - tomcat
 permalink: url-jessionid-resolve
 ---
 

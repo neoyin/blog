@@ -3,7 +3,8 @@ title: React-native Android打离线APK
 date: 2016-05-06 10:12
 Author: Neo
 categories: 技术流
-tags: react-native
+tags:
+ - react-native
 permalink: react-native-android-offline-apk
 ---
 

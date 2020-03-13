@@ -3,7 +3,8 @@ title: solr QueryConverter的定制
 date: 2013-12-02 20:53
 Author: suhong
 categories: 技术流
-tags: solr
+tags:
+ - solr
 permalink: solr-queryconverter-custom
 ---
 

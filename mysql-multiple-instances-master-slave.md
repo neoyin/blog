@@ -3,7 +3,8 @@ title:  MySQL启多个实例进行主从复制
 date: 2013-04-29 13:55
 Author: neoyin
 categories: 技术流
-tags: mysql
+tags:
+ - mysql
 permalink: mysql-multiple-instances-master-slave
 ---
 

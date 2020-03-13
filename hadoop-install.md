@@ -3,7 +3,8 @@ title: 打造分布式文件系统--Hadoop配置安装
 date: 2013-10-23 14:46
 Author: neoyin
 categories: 技术流
-tags: hadoop
+tags:
+ - hadoop
 permalink: hadoop-install
 ---
 

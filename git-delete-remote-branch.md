@@ -3,7 +3,8 @@ title: git删除远程分支abc
 date: 2014-06-14 10:12
 Author: chengz
 categories: 每天进步一点点
-tags: git
+tags:
+ - git
 permalink: git-delete-remote-branch
 ---
 

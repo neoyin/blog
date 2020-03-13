@@ -3,7 +3,8 @@ title: android中的ListView在超过屏幕后，会使选择数据混乱的解�
 date: 2013-12-01 00:06
 Author: fuqiang
 categories: 技术流
-tags: android
+tags:
+ - android
 permalink: android-listview-issue
 ---
 

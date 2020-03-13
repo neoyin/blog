@@ -3,7 +3,9 @@ title: eclipse部署solr源码调试
 date: 2013-12-02 20:48
 Author: suhong
 categories: 技术流
-tags: Lucene,solr
+tags:
+ - Lucene
+ - solr
 permalink: eclipse-deploy-solr-source-code
 ---
 

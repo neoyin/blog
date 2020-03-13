@@ -3,7 +3,9 @@ title: Elementary OS Terminal字体设置
 date: 2016-02-12 17:42
 Author: Neo
 categories: 技术流
-tags: ubuntu,elementary
+tags:
+ - ubuntu
+ - elementary
 permalink: elementary-os-terminal-font
 ---
 

@@ -3,7 +3,8 @@ title: Sublime Json格式化插件
 date: 2015-12-15 10:12
 Author: Neo
 categories: 每天进步一点点
-tags: sublime
+tags:
+ - sublime
 permalink: sublime-pretty-json-format
 ---
 

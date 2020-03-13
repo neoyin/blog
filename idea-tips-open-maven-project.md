@@ -3,7 +3,8 @@ title: IDEA-tips open maven project
 date: 2014-01-08 18:46
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-open-maven-project
 ---
 

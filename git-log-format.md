@@ -3,7 +3,8 @@ title: Git日志格式化输出
 date: 2015-10-12 09:18
 Author: chengz
 categories: 技术流
-tags: git
+tags:
+ - git
 permalink: git-log-format
 ---
 

@@ -3,7 +3,8 @@ title: Ubuntu中搭建Open-vpn服务器
 date: 2013-10-26 16:31
 Author: neoyin
 categories: 技术流
-tags: openvpn
+tags:
+ - openvpn
 permalink: open-vpn
 ---
 

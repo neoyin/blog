@@ -3,7 +3,9 @@ title:  SED单行脚本快速参考（Unix 流编辑器）
 date: 2016-03-06 08:33
 Author: Neo
 categories: 技术流
-tags: linux,sed
+tags:
+ - linux
+ - sed
 permalink: linux-sed-line
 ---
 

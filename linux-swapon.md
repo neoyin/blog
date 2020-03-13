@@ -3,7 +3,8 @@ title: Linux添加Swap文件
 date: 2015-12-07 15:52
 Author: neoyin
 categories: 技术流
-tags: Linux
+tags:
+ - Linux
 permalink: linux-swapon
 ---
 

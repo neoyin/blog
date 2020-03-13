@@ -3,7 +3,8 @@ title: Android  method ID not in [0, 0xffff]
 date: 2014-10-30 09:28
 Author: neoyin
 categories: 技术流
-tags: android
+tags:
+ - android
 permalink: android-method-id-not-in-0xffff
 ---
 

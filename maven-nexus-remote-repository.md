@@ -3,7 +3,9 @@ title: Nexus搭建Maven私服(二) 分发构件至远程仓库
 date: 2012-03-21 20:42
 Author: neoyin
 categories: 技术流
-tags: maven,nexus
+tags:
+ - maven
+ - nexus
 permalink: maven-nexus-remote-repository
 ---
 

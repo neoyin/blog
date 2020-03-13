@@ -3,7 +3,9 @@ title: apache-mina基础类分析(三):AbstractIoConnector
 date: 2013-12-22 20:55
 Author: fuqiang
 categories: 技术流
-tags: apache,mina
+tags:
+ - apache
+ - mina
 permalink: apache-mina-abstractioconnector
 ---
 

@@ -2,7 +2,9 @@
 title: Linux 命令lsof
 date: 2017-07-30 09:27
 categories: 技术流
-tags: Linux,lsof
+tags:
+ - Linux
+ - lsof
 permalink: linux-command-lsof
 ---
 

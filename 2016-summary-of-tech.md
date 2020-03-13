@@ -3,7 +3,10 @@ title: 2016年技术积累总结
 date: 2016-12-31 16:34
 Author: neoyin
 categories: 技术流
-tags: docker,springboot,react-native
+tags:
+ - docker
+ - springboot
+ - react-native
 permalink: 2016-summary-of-tech
 ---
 

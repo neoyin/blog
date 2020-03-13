@@ -3,7 +3,8 @@ title: solr shard查询请求时createMainQuery报错
 date: 2013-12-24 20:35
 Author: suhong
 categories: 技术流
-tags: solr
+tags:
+ - solr
 permalink: solr-shard-error-of-query-createmainquery
 ---
 

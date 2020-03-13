@@ -3,7 +3,9 @@ title: 压力测试工具-Pylot
 date: 2013-05-06 16:22
 Author: neoyin
 categories: 技术流
-tags: pylot,python
+tags:
+ - pylot
+ - python
 permalink: web-performance-tool-pylot
 ---
 

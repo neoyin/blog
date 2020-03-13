@@ -3,7 +3,9 @@ title: mina的初始化过程分析进阶(二)
 date: 2013-12-08 22:13
 Author: fuqiang
 categories: 技术流
-tags: apache,mina
+tags:
+ - apache
+ - mina
 permalink: apache-mina-init-socket
 ---
 

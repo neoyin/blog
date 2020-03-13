@@ -3,7 +3,10 @@ title: 设计师项目前期技术准备
 date: 2017-01-01 16:34
 Author: neoyin
 categories: 技术流
-tags: docker,springboot,react-native
+tags:
+ - docker
+ - springboot
+ - react-native
 permalink: the-designer-get-ready-to
 ---
 

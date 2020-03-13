@@ -3,7 +3,9 @@ title: Apache Nginx正向和反向代理
 date: 2013-12-16 14:12
 Author: neoyin
 categories: 技术流
-tags: apache,nginx
+tags:
+ - apache
+ - nginx
 permalink: apache-nginx-proxy
 ---
 

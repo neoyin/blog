@@ -3,7 +3,8 @@ title: nginx proxy_cache缓存
 date: 2015-10-21 17:22
 Author: Neoyin
 categories: 技术流
-tags: nginx
+tags:
+ - nginx
 permalink: nginx-proxy-cache
 ---
 

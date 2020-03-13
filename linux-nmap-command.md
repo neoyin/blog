@@ -3,7 +3,9 @@ title: Linux系统管理员最常用的29个Nmap命令
 date: 2014-02-18 16:20
 Author: neoyin
 categories: 技术流
-tags: linux,nmap
+tags:
+ - linux
+ - nmap
 permalink: linux-nmap-command
 ---
 

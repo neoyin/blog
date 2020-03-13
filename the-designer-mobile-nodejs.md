@@ -3,7 +3,11 @@ title: 设计师项目Nodejs前端项目
 date: 2017-01-03 16:34
 Author: neoyin
 categories: 技术流
-tags: docker,springboot,react-native,nodejs
+tags:
+ - docker
+ - springboot
+ - react-native
+ - nodejs
 permalink: the-designer-mobile-nodejs
 ---
 

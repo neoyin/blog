@@ -3,7 +3,8 @@ title: CURL获取请求的各响应时间
 date: 2014-04-23 04:07
 Author: neoyin
 categories: 技术流
-tags: curl
+tags:
+ - curl
 permalink: curl-request-response-time
 ---
 

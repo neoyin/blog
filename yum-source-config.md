@@ -3,7 +3,8 @@ title: 配置yum的安装源
 date: 2014-10-06 16:59
 Author: chengz
 categories: 每天进步一点点
-tags: linux
+tags:
+ - linux
 permalink: yum-source-config
 ---
 

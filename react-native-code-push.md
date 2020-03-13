@@ -3,7 +3,8 @@ title: React-native Codepush 热更新
 date: 2016-05-20 10:12
 Author: Neo
 categories: 技术流
-tags: react-native
+tags:
+ - react-native
 permalink: react-native-code-push
 ---
 

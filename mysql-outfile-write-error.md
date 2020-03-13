@@ -3,7 +3,8 @@ title: 解决select ... into outfile '..' mysql写文件权限问题
 date: 2012-03-02 12:29
 Author: neoyin
 categories: 技术流
-tags: mysql
+tags:
+ - mysql
 permalink: mysql-outfile-write-error
 ---
 

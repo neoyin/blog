@@ -3,7 +3,8 @@ title:  正则表达式匹配3的倍数
 date: 2014-03-01 16:06
 Author: chengz
 categories: 技术流
-tags: regex
+tags:
+ - regex
 permalink: regular-expression-match-multiple-of-3
 ---
 

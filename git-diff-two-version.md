@@ -3,7 +3,8 @@ title: git 比较两个版本号的差异
 date: 2014-06-22 09:18
 Author: chengz
 categories: 每天进步一点点
-tags: git
+tags:
+ - git
 permalink: git-diff-two-version
 ---
 

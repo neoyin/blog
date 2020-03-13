@@ -3,7 +3,8 @@ title: Python安装pip
 date: 2016-10-26 12:10
 Author: neoyin
 categories: 技术流
-tags: python
+tags:
+ - python
 permalink: python-install-pip
 ---
 

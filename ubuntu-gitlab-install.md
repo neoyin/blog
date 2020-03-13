@@ -3,7 +3,9 @@ title: Ubuntu搭建gitLab
 date: 2013-11-22 00:57
 Author: neoyin
 categories: 技术流
-tags: git,ubuntu
+tags:
+ - git
+ - ubuntu
 permalink: ubuntu-gitlab-install
 ---
 

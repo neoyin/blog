@@ -3,7 +3,8 @@ title: windows连接github
 date: 2014-04-06 15:59
 Author: chengz
 categories: 技术流
-tags: git
+tags:
+ - git
 permalink: windows-conect-github
 ---
 

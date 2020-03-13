@@ -3,7 +3,8 @@ title: mongodb  shell 操作
 date: 2013-11-01 17:09
 Author: chengz
 categories: 技术流
-tags: mongodb
+tags:
+ - mongodb
 permalink: mongodb-shell-options
 ---
 

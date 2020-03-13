@@ -3,7 +3,8 @@ title: tar 解压指定一个文件
 date: 2014-05-28 12:06
 Author: chengz
 categories: 每天进步一点点
-tags: linux
+tags:
+ - linux
 permalink: tar-unzip-file
 ---
 

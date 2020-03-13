@@ -3,7 +3,8 @@ title: Linux 命令备忘(top)
 date: 2011-08-22 21:13
 Author: neoyin
 categories: 技术流
-tags: Linux
+tags:
+ - Linux
 permalink: linux-command-top
 ---
 

@@ -3,7 +3,8 @@ title:  mongodb 慢查询
 date: 2014-06-27 13:29
 Author: chengz
 categories: 技术流
-tags: mongodb
+tags:
+ - mongodb
 permalink: mongodb-slow-query
 ---
 

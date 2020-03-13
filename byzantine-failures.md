@@ -3,7 +3,8 @@ title: 拜占庭将军问题
 date: 2014-02-24 16:24
 Author: neoyin
 categories: 技术流
-tags: thread
+tags:
+ - thread
 permalink: byzantine-failures
 ---
 

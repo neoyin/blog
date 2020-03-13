@@ -3,7 +3,8 @@ title: MongoDB Replication
 date: 2014-06-14 10:09
 Author: chengz
 categories: 技术流
-tags: mongodb
+tags:
+ - mongodb
 permalink: mongodb-replication
 ---
 

@@ -3,7 +3,10 @@ title: java nio为什么是通道(一)：通往nio的云梯
 date: 2014-01-01 21:00
 Author: fuqiang
 categories: 技术流
-tags: channel,java, nio
+tags:
+ - channel
+ - java
+ -  nio
 permalink: java-nio-channel
 ---
 

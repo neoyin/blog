@@ -3,7 +3,8 @@ title: IDEA-tips 计算表达式
 date: 2013-12-11 18:45
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-evaluate
 ---
 

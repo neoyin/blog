@@ -3,7 +3,9 @@ title: Linux下常用的12个grep命令范例
 date: 2014-01-25 16:26
 Author: neoyin
 categories: 技术流
-tags: grep,linux
+tags:
+ - grep
+ - linux
 permalink: linux-grep-command
 ---
 

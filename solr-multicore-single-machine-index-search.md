@@ -3,7 +3,8 @@ title: solr Multicore实现单服务器索引分片搜索
 date: 2013-12-10 20:57
 Author: suhong
 categories: 技术流
-tags: solr
+tags:
+ - solr
 permalink: solr-multicore-single-machine-index-search
 ---
 

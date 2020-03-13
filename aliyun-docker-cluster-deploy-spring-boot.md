@@ -3,7 +3,9 @@ title: 阿里云容器服务部署SpringBoot 服务
 date: 2016-12-19 16:34
 Author: neoyin
 categories: 技术流
-tags: docker,springboot
+tags:
+ - docker
+ - springboot
 permalink: aliyun-docker-cluster-deploy-spring-boot
 ---
 

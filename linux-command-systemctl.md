@@ -3,7 +3,9 @@ title: Linux下systemctl命令
 date: 2017-04-29 13:59
 Author: neoyin
 categories: 技术流
-tags: linux,systemctl
+tags:
+ - linux
+ - systemctl
 permalink: linux-command-systemctl
 ---
 

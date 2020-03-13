@@ -3,7 +3,9 @@ title: SpringBoot同时配置Jersey和Mvc
 date: 2017-12-11 17:34
 Author: neoyin
 categories: 技术流
-tags: spring,spring-boot
+tags:
+ - spring
+ - spring-boot
 permalink: spring-boot-jersey-mvc
 ---
 

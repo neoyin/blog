@@ -3,7 +3,8 @@ title: Redis在Linux自启动
 date: 2015-10-06 16:30
 Author: neoyin
 categories: 技术流
-tags: redis
+tags:
+ - redis
 permalink: redis-linux-init
 ---
 

@@ -3,7 +3,9 @@ title: mina的server/client初始化过程分析(一)
 date: 2013-12-08 00:40
 Author: fuqiang
 categories: 技术流
-tags: apache,mina
+tags:
+ - apache
+ - mina
 permalink: apache-mina-init-client
 ---
 

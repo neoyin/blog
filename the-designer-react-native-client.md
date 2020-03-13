@@ -3,7 +3,10 @@ title: 设计师项目react-native客户端项目
 date: 2017-01-03 17:34
 Author: neoyin
 categories: 技术流
-tags: docker,springboot,react-native
+tags:
+ - docker
+ - springboot
+ - react-native
 permalink: the-designer-react-native-client
 ---
 

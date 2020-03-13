@@ -3,7 +3,9 @@ title: Ubuntu中快速搭建VPN服务器
 date: 2013-07-20 13:42
 Author: neoyin
 categories: 技术流
-tags: vpn,ubuntu
+tags:
+ - vpn
+ - ubuntu
 permalink: ubuntu-vpn
 ---
 

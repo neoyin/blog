@@ -3,7 +3,9 @@ title: (Linux命令) nicstat 网络流量统计利器
 date: 2013-02-27 15:11
 Author: neoyin
 categories: 技术流
-tags: Linux,nicstat
+tags:
+ - Linux
+ - nicstat
 permalink: linux-command-nicstat
 ---
 

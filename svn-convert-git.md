@@ -3,7 +3,9 @@ title: svn 仓库转为 git
 date: 2014-06-21 02:43
 Author: chengz
 categories: 每天进步一点点
-tags: git,svn
+tags:
+ - git
+ - svn
 permalink: svn-convert-git
 ---
 

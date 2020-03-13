@@ -3,7 +3,8 @@ title: 打造分布式文件系统：Hadoop架构和设计要点[转]
 date: 2013-10-28 19:44
 Author: neoyin
 categories: 技术流
-tags: hadoop
+tags:
+ - hadoop
 permalink: hadoop-main-points
 ---
 

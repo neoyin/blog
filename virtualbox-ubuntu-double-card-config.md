@@ -3,7 +3,8 @@ title: VirtualBox下Ubuntu虚拟机双网卡配置
 date: 2017-07-18 10:12
 Author: chengz
 categories: 每天进步一点点
-tags: git
+tags:
+ - git
 permalink: virtualbox-ubuntu-double-card-config
 ---
 

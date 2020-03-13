@@ -3,7 +3,8 @@ title: Mac 10.12 无法允许“任何来源” 的应用
 date: 2016-10-14 13:29
 Author: neoyin
 categories: 技术流
-tags: macos
+tags:
+ - macos
 permalink: mac-os-any-resource
 ---
 

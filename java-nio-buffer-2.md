@@ -3,7 +3,10 @@ title: 你不知道的java nio缓冲区(二)
 date: 2014-01-01 13:48
 Author: fuqiang
 categories: 技术流
-tags: buffer,java, nio
+tags:
+ - buffer
+ - java
+ -  nio
 permalink: java-nio-buffer-2
 ---
 

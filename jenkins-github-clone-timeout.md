@@ -3,7 +3,9 @@ title: 阿里云Jenkins从Github构建项目超时
 date: 2016-10-28 10:10
 Author: neoyin
 categories: 技术流
-tags: jenkins,github
+tags:
+ - jenkins
+ - github
 permalink: jenkins-github-clone-timeout
 ---
 

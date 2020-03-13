@@ -3,7 +3,9 @@ title: sed替换文件内容
 date: 2014-07-12 04:48
 Author: chengz
 categories: 每天进步一点点
-tags: linux,sed
+tags:
+ - linux
+ - sed
 permalink: sed-replace-content
 ---
 

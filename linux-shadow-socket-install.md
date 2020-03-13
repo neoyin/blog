@@ -3,7 +3,8 @@ title: Linux下搭建ShadowSocks
 date: 2015-11-19 16:59
 Author: Neo
 categories: 技术流
-tags: VPN
+tags:
+ - VPN
 permalink: linux-shadow-socket-install
 ---
 

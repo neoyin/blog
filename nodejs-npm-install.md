@@ -3,7 +3,8 @@ title: 安装Nodejs 和 npm
 date: 2013-12-27 17:41
 Author: chengz
 categories: 技术流
-tags: nodejs
+tags:
+ - nodejs
 permalink: nodejs-npm-install
 ---
 

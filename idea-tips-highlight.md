@@ -3,7 +3,8 @@ title: Itellij Idea Tips- 高亮显示
 date: 2013-11-28 11:14
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-highlight
 ---
 

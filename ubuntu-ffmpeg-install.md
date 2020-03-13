@@ -3,7 +3,10 @@ title: Ubuntu下安装FFmpeg
 date: 2016-9-7 15:11
 Author: Neo
 categories: 技术流
-tags: Linux,ffmpeg,android
+tags:
+ - Linux
+ - ffmpeg
+ - android
 permalink: ubuntu-ffmpeg-install
 ---
 

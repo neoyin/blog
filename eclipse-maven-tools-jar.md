@@ -3,7 +3,8 @@ title: eclipse中pom报错 tools.jar
 date: 2013-12-12 17:42
 Author: chengz
 categories: 技术流
-tags: maven
+tags:
+ - maven
 permalink: eclipse-maven-tools-jar
 ---
 

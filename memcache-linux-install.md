@@ -3,7 +3,9 @@ title: 缓存的重要性（Linux下安装Memcache）
 date: 2013-06-21 16:05
 Author: neoyin
 categories: 技术流
-tags: linux,memcache
+tags:
+ - linux
+ - memcache
 permalink: memcache-linux-install
 ---
 

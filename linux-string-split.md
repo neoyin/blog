@@ -3,7 +3,8 @@ title: Linux shell命令字符串操作
 date: 2016-5-27 15:11
 Author: Neo
 categories: 技术流
-tags: Linux
+tags:
+ - Linux
 permalink: linux-string-split
 ---
 

@@ -3,7 +3,8 @@ title: Idea tips-格式化
 date: 2013-11-29 18:27
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-format
 ---
 

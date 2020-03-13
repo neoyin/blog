@@ -3,7 +3,9 @@ title: jsp-config去除JSP页面生成的空行
 date: 2013-12-04 00:30
 Author: neoyin
 categories: 技术流
-tags: java,tomcat
+tags:
+ - java
+ - tomcat
 permalink: jsp-config-trim-space
 ---
 

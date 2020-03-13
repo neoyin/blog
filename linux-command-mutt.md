@@ -3,7 +3,9 @@ title: Mutt 一个通过终端发送邮件的Email客户端
 date: 2014-03-31 13:59
 Author: neoyin
 categories: 技术流
-tags: linux,mutt
+tags:
+ - linux
+ - mutt
 permalink: linux-command-mutt
 ---
 

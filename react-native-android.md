@@ -3,7 +3,8 @@ title: React-native 环境搭建
 date: 2016-05-04 10:12
 Author: Neo
 categories: 技术流
-tags: react-native
+tags:
+ - react-native
 permalink: react-native-android
 ---
 

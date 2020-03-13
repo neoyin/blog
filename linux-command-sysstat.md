@@ -3,7 +3,9 @@ title: Linux系统性能和使用活动监控工具 sysstat
 date: 2014-10-24 14:52
 Author: neoyin
 categories: 技术流
-tags: linux,sysstat
+tags:
+ - linux
+ - sysstat
 permalink: linux-command-sysstat
 ---
 

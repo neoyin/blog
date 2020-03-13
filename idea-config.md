@@ -3,7 +3,8 @@ title: # IDEA配置
 date: 2013-11-30 10:18
 Author: chengz
 categories: 技术流
-tags: idea
+tags:
+ - idea
 permalink: idea-config
 ---
 

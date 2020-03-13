@@ -3,7 +3,8 @@ title: 用多线程解决哲学家就餐问题
 date: 2013-07-26 14:49
 Author: neoyin
 categories: 技术流
-tags: thread
+tags:
+ - thread
 permalink: dining-philosophers-problem
 ---
 

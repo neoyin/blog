@@ -3,7 +3,9 @@ title: Docker中安装jenkins
 date: 2016-10-09 14:29
 Author: neoyin
 categories: 技术流
-tags: docker,jenkins
+tags:
+ - docker
+ - jenkins
 permalink: docker-jenkins-start
 ---
 

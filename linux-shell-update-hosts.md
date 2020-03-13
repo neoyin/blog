@@ -2,7 +2,8 @@
 title: Linux修改hosts脚本
 date: 2015-12-16 09:27
 categories: 技术流
-tags: Linux
+tags:
+ - Linux
 permalink: linux-shell-update-hosts
 ---
 

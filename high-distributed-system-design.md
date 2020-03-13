@@ -3,7 +3,8 @@ title: 高并发服务端分布式系统设计概要[转]
 date: 2013-10-09 14:15
 Author: neoyin
 categories: 技术流
-tags: thread
+tags:
+ - thread
 permalink: high-distributed-system-design
 ---
 

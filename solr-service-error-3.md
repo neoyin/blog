@@ -3,7 +3,9 @@ title: solr服务器报错解决三
 date: 2014-02-18 19:22
 Author: suhong
 categories: 技术流
-tags: lucene,solr
+tags:
+ - lucene
+ - solr
 permalink: solr-service-error-3
 ---
 

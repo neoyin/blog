@@ -3,7 +3,8 @@ title: 常用Git命令清单[转]
 date: 2015-12-14 10:12
 Author: Neo
 categories: 每天进步一点点
-tags: git
+tags:
+ - git
 permalink: git-command-list
 ---
 

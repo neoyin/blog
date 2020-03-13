@@ -3,7 +3,8 @@ title: Intellij Idea tips-参数补全
 date: 2013-11-26 18:25
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-ctrl-p
 ---
 

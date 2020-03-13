@@ -3,7 +3,9 @@ title: java HashMap和HashTable的爱恨情仇
 date: 2013-11-26 00:51
 Author: fuqiang
 categories: 技术流
-tags: hashmap,hashtab
+tags:
+ - hashmap
+ - hashtab
 permalink: java-hashmap-hashtable
 ---
 

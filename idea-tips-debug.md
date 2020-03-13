@@ -3,7 +3,8 @@ title: IDEA-tips 调试菜单
 date: 2013-12-18 19:43
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-debug
 ---
 

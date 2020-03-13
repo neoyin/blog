@@ -3,7 +3,8 @@ title: zookeeper使用命令zkServer.sh status时出现错误提示问题
 date: 2013-12-01 19:52
 Author: fuqiang
 categories: 技术流
-tags: zookeeper
+tags:
+ - zookeeper
 permalink: zookeeperzkserver-sh-status-error
 ---
 

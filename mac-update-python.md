@@ -3,7 +3,8 @@ title: Mac升级python
 date: 2017-04-15 17:34
 Author: neoyin
 categories: 技术流
-tags: python
+tags:
+ - python
 permalink: mac-update-python
 ---
 

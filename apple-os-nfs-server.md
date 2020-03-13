@@ -3,7 +3,9 @@ title: Apple OS X 开启NFS server
 date: 2013-11-22 16:10
 Author: neoyin
 categories: 技术流
-tags: macos,nfs
+tags:
+ - macos
+ - nfs
 permalink: apple-os-nfs-server
 ---
 

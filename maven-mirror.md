@@ -3,7 +3,8 @@ title: Maven私服中的mirror
 date: 2014-02-07 16:26
 Author: neoyin
 categories: 技术流
-tags: maven
+tags:
+ - maven
 permalink: maven-mirror
 ---
 

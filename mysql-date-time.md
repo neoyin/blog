@@ -3,7 +3,8 @@ title: Mysql日期和时间函数
 date: 2012-07-09 15:21
 Author: neoyin
 categories: 技术流
-tags: mysql
+tags:
+ - mysql
 permalink: mysql-date-time
 ---
 

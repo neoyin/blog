@@ -3,7 +3,9 @@ title:  jmagick 常见错误和安装
 date: 2014-07-12 02:55
 Author: chengz
 categories: 技术流
-tags: jmagick,ubuntu
+tags:
+ - jmagick
+ - ubuntu
 permalink: jmagick-install-and-error
 ---
 

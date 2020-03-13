@@ -3,7 +3,8 @@ title: IDEA-tips 剪贴板
 date: 2013-12-09 18:45
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-clipboard
 ---
 

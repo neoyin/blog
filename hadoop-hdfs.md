@@ -3,7 +3,8 @@ title: 打造分布式文件系统--HDFS
 date: 2013-10-30 11:52
 Author: neoyin
 categories: 技术流
-tags: hadoop
+tags:
+ - hadoop
 permalink: hadoop-hdfs
 ---
 

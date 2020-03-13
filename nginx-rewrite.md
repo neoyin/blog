@@ -3,7 +3,8 @@ title: nginx Rewrite
 date: 2013-10-19 17:22
 Author: chengz
 categories: 技术流
-tags: nginx
+tags:
+ - nginx
 permalink: nginx-rewrite
 ---
 

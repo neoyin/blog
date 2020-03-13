@@ -3,7 +3,8 @@ title: Intellij Idea tips-修改历史
 date: 2013-11-27 20:53
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-change-history
 ---
 

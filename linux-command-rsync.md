@@ -3,7 +3,9 @@ title: Linux 命令备忘(rsync)
 date: 2015-10-22 21:13
 Author: neoyin
 categories: 技术流
-tags: Linux,rsync
+tags:
+ - Linux
+ - rsync
 permalink: linux-command-rsync
 ---
 

@@ -3,7 +3,8 @@ title: X-Forwarded-For引发的悬案
 date: 2014-03-27 16:01
 Author: neoyin
 categories: 技术流
-tags: nginx
+tags:
+ - nginx
 permalink: haproxy-x-forwarded-for
 ---
 

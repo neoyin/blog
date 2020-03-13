@@ -3,7 +3,9 @@ title: Nexus搭建Maven私服(三) 版本控制
 date: 2012-03-22 21:23
 Author: neoyin
 categories: 技术流
-tags: maven,nexus
+tags:
+ - maven
+ - nexus
 permalink: maven-nexus-revesion
 ---
 

@@ -3,7 +3,9 @@ title: Nexus搭建Maven私服(四) Maven 相关打包插件
 date: 2012-04-09 17:43
 Author: neoyin
 categories: 技术流
-tags: maven,nexus
+tags:
+ - maven
+ - nexus
 permalink: maven-nexus-packing
 ---
 

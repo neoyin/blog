@@ -3,7 +3,9 @@ title: logback 中配置 perf4j
 date: 2014-06-22 11:47
 Author: chengz
 categories: 技术流
-tags: logback,perf4j
+tags:
+ - logback
+ - perf4j
 permalink: logback-perf4j-config
 ---
 

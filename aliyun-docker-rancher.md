@@ -3,7 +3,9 @@ title: 阿里云搭建Rancher服务
 date: 2016-10-25 17:10
 Author: neoyin
 categories: 技术流
-tags: docker,rancher
+tags:
+ - docker
+ - rancher
 permalink: aliyun-docker-rancher
 ---
 

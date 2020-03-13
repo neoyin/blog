@@ -3,7 +3,9 @@ title: Linux命令备忘（netstat）
 date: 2012-10-25 15:52
 Author: neoyin
 categories: 技术流
-tags: Linux,netstat
+tags:
+ - Linux
+ - netstat
 permalink: linux-command-netstat
 ---
 

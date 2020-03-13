@@ -3,7 +3,8 @@ title: 使用正则表达式匹配嵌套Html标签
 date: 2014-02-08 12:03
 Author: chengz
 categories: 技术流
-tags: regex
+tags:
+ - regex
 permalink: regex-html-tags
 ---
 

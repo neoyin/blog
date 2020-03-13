@@ -3,7 +3,9 @@ title: ubuntu上安装openvpn
 date: 2014-07-19 16:01
 Author: chengz
 categories: 技术流
-tags: ubuntu,openvpn
+tags:
+ - ubuntu
+ - openvpn
 permalink: ubuntu-install-openvpn
 ---
 

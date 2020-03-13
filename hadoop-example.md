@@ -3,7 +3,8 @@ title: hadoop学习例子
 date: 2013-11-19 00:04
 Author: fuqiang
 categories: 技术流
-tags: hadoop
+tags:
+ - hadoop
 permalink: hadoop-example
 ---
 

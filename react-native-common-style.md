@@ -3,7 +3,8 @@ title: React-native最常用样式
 date: 2017-01-15 17:34
 Author: neoyin
 categories: 技术流
-tags: react-native
+tags:
+ - react-native
 permalink: react-native-common-style
 ---
 

@@ -3,7 +3,8 @@ title: 苹果公司与分工原理
 date: 2013-03-08 18:10
 Author: neoyin
 categories: 浮生记
-tags: apple
+tags:
+ - apple
 permalink: apple-and-the-division-of-labor
 ---
 

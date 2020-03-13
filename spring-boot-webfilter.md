@@ -3,7 +3,9 @@ title: SpringBoot添加WebFilter
 date: 2017-05-15 17:34
 Author: neoyin
 categories: 技术流
-tags: spring,spring-boot
+tags:
+ - spring
+ - spring-boot
 permalink: spring-boot-webfilter
 ---
 

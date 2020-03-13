@@ -3,7 +3,8 @@ title: maven项目继承及依赖
 date: 2013-05-08 20:45
 Author: neoyin
 categories: 技术流
-tags: maven
+tags:
+ - maven
 permalink: maven-dependency-moudle
 ---
 

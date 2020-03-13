@@ -3,7 +3,9 @@ title: Apache mina 基础类分析（二）：AbstractIoService
 date: 2013-12-15 23:55
 Author: fuqiang
 categories: 技术流
-tags: apache,mina
+tags:
+ - apache
+ - mina
 permalink: apache-mina-basic-abstractioservice
 ---
 

@@ -3,7 +3,8 @@ title: solr TermsComponent实现对热词的统计
 date: 2013-12-29 23:22
 Author: suhong
 categories: 技术流
-tags: solr
+tags:
+ - solr
 permalink: solr-termscomponent-hot-word-statistics
 ---
 

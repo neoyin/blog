@@ -3,7 +3,9 @@ title: Linux下利用rinetd进行端口转发
 date: 2016-12-22 15:34
 Author: neoyin
 categories: 技术流
-tags: rinetd,linux
+tags:
+ - rinetd
+ - linux
 permalink: linux-rinetd-port-redirect
 ---
 

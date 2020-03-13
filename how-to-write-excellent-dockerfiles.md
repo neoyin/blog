@@ -3,7 +3,8 @@ title: 如何编写最佳的Dockerfile
 date: 2017-05-11 13:59
 Author: neoyin
 categories: 技术流
-tags: docker
+tags:
+ - docker
 permalink: how-to-write-excellent-dockerfiles
 ---
 

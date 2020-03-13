@@ -2,7 +2,9 @@
 title: Linux 命令备忘 (lsof,ulimit)
 date: 2012-04-01 09:27
 categories: 技术流
-tags: Linux,lsof
+tags:
+ - Linux
+ - lsof
 permalink: linux-command-lsof-ulimit
 ---
 

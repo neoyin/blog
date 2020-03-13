@@ -3,7 +3,8 @@ title: Mongodb学习[转]
 date: 2014-11-05 18:55
 Author: neoyin
 category: 技术流
-tags: mongodb
+tags:
+ - mongodb
 permalink: mongodb-study
 ---
 

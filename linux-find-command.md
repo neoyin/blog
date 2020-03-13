@@ -3,7 +3,9 @@ title: 35个实用Linux Find命令
 date: 2013-11-23 13:30
 Author: neoyin
 categories: 技术流
-tags: find,linux
+tags:
+ - find
+ - linux
 permalink: linux-find-command
 ---
 

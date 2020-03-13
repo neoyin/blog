@@ -3,7 +3,8 @@ title: Scp stalled 问题解析
 date: 2013-05-09 00:13
 Author: neoyin
 categories: 技术流
-tags: linux
+tags:
+ - linux
 permalink: scp-stalled-error
 ---
 

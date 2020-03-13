@@ -3,7 +3,8 @@ title: Git常用命令备忘
 date: 2017-06-18 17:34
 Author: neoyin
 categories: 技术流
-tags: git
+tags:
+ - git
 permalink: git-command-note
 ---
 

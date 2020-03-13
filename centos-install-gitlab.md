@@ -3,7 +3,8 @@ title:  Centos 安装gitlab
 date: 2014-05-06 08:33
 Author: chengz
 categories: 技术流
-tags: git
+tags:
+ - git
 permalink: centos-install-gitlab
 ---
 

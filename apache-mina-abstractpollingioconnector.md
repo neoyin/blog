@@ -3,7 +3,9 @@ title: apache-mina基础类分析(四)AbstractPollingIoConnector
 date: 2013-12-22 20:56
 Author: fuqiang
 categories: 技术流
-tags: apache,mina
+tags:
+ - apache
+ - mina
 permalink: apache-mina-abstractpollingioconnector
 ---
 

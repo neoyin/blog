@@ -3,7 +3,8 @@ title: hadoop jobclient69秒超时问题
 date: 2013-12-01 14:40
 Author: fuqiang
 categories: 技术流
-tags: hadoop
+tags:
+ - hadoop
 permalink: hadoop-jobclient-69s-timeout
 ---
 

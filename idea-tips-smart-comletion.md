@@ -3,7 +3,8 @@ title: Intellij Idea tips--智能类型补全
 date: 2013-11-23 13:49
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips-smart-comletion
 ---
 

@@ -3,7 +3,8 @@ title: 很牛掰的格式转换器pandoc
 date: 2015-04-08 13:59
 Author: Neo
 categories: 技术流
-tags: linux
+tags:
+ - linux
 permalink: linux-command-pandoc
 ---
 

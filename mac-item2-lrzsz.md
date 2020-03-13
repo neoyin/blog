@@ -3,7 +3,8 @@ title: Mac下iterm2远程文件上传下载lrzsz 
 date: 2017-05-20 17:34
 Author: neoyin
 categories: 技术流
-tags: mac
+tags:
+ - mac
 permalink: mac-item2-lrzsz
 ---
 

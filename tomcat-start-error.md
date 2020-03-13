@@ -3,7 +3,8 @@ title: 记一个SB的tomcat报错
 date: 2013-11-06 19:01
 Author: chengz
 categories: 技术流
-tags: tomcat
+tags:
+ - tomcat
 permalink: tomcat-start-error
 ---
 

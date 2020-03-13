@@ -3,7 +3,9 @@ title: Linux最实用命令nc
 date: 2016-9-5 15:11
 Author: Neo
 categories: 技术流
-tags: Linux,nc
+tags:
+ - Linux
+ - nc
 permalink: linux-nc-command
 ---
 

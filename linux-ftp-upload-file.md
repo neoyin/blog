@@ -3,7 +3,9 @@ title: Linux FTP上传文件
 date: 2016-5-28 15:11
 Author: Neo
 categories: 技术流
-tags: Linux,ftp
+tags:
+ - Linux
+ - ftp
 permalink: linux-ftp-upload-file
 ---
 

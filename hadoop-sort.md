@@ -3,7 +3,8 @@ title: 打造分布式文件系统--Java排序算法复习
 date: 2013-11-04 16:26
 Author: neoyin
 categories: 技术流
-tags: hadoop
+tags:
+ - hadoop
 permalink: hadoop-sort
 ---
 

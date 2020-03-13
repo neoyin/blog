@@ -3,7 +3,8 @@ title: Solr facet、group、fq
 date: 2014-03-02 17:53
 Author: suhong
 categories: 技术流
-tags: solr
+tags:
+ - solr
 permalink: solr-facet-group-fq
 ---
 

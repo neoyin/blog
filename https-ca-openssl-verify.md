@@ -3,7 +3,9 @@ title: https证书验证失败
 date: 2016-10-24 16:10
 Author: neoyin
 categories: 技术流
-tags: https,openssl
+tags:
+ - https
+ - openssl
 permalink: https-ca-openssl-verify
 ---
 

@@ -3,7 +3,8 @@ title: Linux下Logrotate切割日志
 date: 2015-11-04 21:13
 Author: neoyin
 categories: 技术流
-tags: logrotate
+tags:
+ - logrotate
 permalink: linux-logrotate-log-cat
 ---
 

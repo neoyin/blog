@@ -3,7 +3,8 @@ title: 用Markdown写文章
 date: 2014-01-07 09:56
 Author: neoyin
 categories: 技术流
-tags: markdown
+tags:
+ - markdown
 permalink: wordpress-markdown
 ---
 

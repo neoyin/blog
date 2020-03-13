@@ -3,7 +3,8 @@ title: IDEA tips
 date: 2013-11-22 08:53
 Author: chengz
 categories: 每日一译
-tags: idea
+tags:
+ - idea
 permalink: idea-tips
 ---
 

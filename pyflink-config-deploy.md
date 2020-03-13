@@ -3,7 +3,11 @@ title: Pyflink开发-环境部署
 date: 2020-02-25 17:10
 Author: neoyin
 categories: 技术流
-tags: docker,flink,python,pyflink
+tags:
+ - docker
+ - flink
+ - python
+ - pyflink
 permalink: pyflink-config-deploy
 ---
 

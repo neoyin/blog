@@ -2,7 +2,8 @@
 title: IDEA-tips 菜单描述
 date: 2013-12-17 14:54
 Author: chengz
-tags: idea
+tags:
+ - idea
 categories: 每日一译
 permalink: idea-tips-menu
 ---

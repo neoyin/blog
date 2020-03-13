@@ -3,7 +3,8 @@ title: mysql表字段存在关键字造成保存数据时异常的问题
 date: 2013-11-28 23:52
 Author: fuqiang
 categories: 技术流
-tags: mysql
+tags:
+ - mysql
 permalink: mysql-keepword-save-error
 ---
 
