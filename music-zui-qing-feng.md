@@ -13,7 +13,7 @@ permalink: music-zui-qing-feng
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=29535043&auto=1&height=66"></iframe>
 
-<p>
+```
 月色正朦胧
 与清风把酒相送
 太多的诗颂
@@ -76,4 +76,4 @@ permalink: music-zui-qing-feng
 曲终人散
 谁无过错
 我看破
-</p>
+```

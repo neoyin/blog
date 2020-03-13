@@ -1,6 +1,6 @@
 ---
 title: 人生如梦
-date: 2012-12-30 06:20
+date: 2012-02-30 06:20
 Author: neoyin
 categories: 浮生记
 permalink: hello-world
