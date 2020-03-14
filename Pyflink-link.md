@@ -42,6 +42,8 @@ https://ci.apache.org/projects/flink/flink-docs-stable/dev/table/tableApi.html
 
 https://ci.apache.org/projects/flink/flink-docs-master/zh/getting-started/walkthroughs/python_table_api.html
 
+https://ci.apache.org/projects/flink/flink-docs-release-1.10/dev/table/functions/udfs.html
+
 https://ci.apache.org/projects/flink/flink-docs-release-1.10/dev/table/functions/systemFunctions.html
 
 https://ci.apache.org/projects/flink/flink-docs-release-1.10/zh/ops/cli.html
