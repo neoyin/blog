@@ -168,6 +168,12 @@ Creating pyflink-rdp_jobmanager_1 ... done
 
 `./flink run -m $ip:8081 -py $path/deploy_demo.py`
 
+##### 6. K8S
+
+https://ci.apache.org/projects/flink/flink-docs-stable/ops/deployment/kubernetes.html
+
+https://ci.apache.org/projects/flink/flink-docs-stable/ops/config.html#taskmanager-memory-jvm-metaspace-size
+
 ## 遇到问题
 
 1. **[本地环境]**ModuleNotFoundError: No module named 'grpc'  
@@ -175,3 +181,6 @@ Creating pyflink-rdp_jobmanager_1 ... done
 2. **[本地环境]**google/protobuf/[descriptor_database.cc](http://descriptor_database.cc/):58] file already exists in database:
    暂时将pyarrow从0.14.1 升级至pip install pyarrow==0.15.1 (可能有潜在问题)
    Some synt  actic constructs of Python 3 are not yet fully supported by Apache Beam.
+
+
+
