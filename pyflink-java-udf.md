@@ -91,3 +91,6 @@ public class ConcatAggregateFunction extends AggregateFunction<String,StrConcatA
 代码中加入 `register_java_function('methond','classpath')`  python中定义调用method 和java class路径即可
 
 https://segmentfault.com/a/1190000018109879
+
+https://www.alibabacloud.com/help/zh/doc-detail/69553.htm
+
