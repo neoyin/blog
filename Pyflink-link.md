@@ -56,3 +56,5 @@ https://github.com/kkolman/flink-docker-python
 
 https://github.com/flink-china/sql-training
 
+https://developer.aliyun.com/article/747800
+
