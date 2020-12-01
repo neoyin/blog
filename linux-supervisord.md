@@ -5,6 +5,7 @@ Author: Neo
 categories: 技术流
 tags:
  - linux
+ - supervisor
 permalink: linux-supervisord
 ---
 
