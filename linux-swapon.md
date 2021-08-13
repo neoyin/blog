@@ -79,3 +79,4 @@ Swap:       524284          0     524284
 
 ##### 参考
 - <http://www.cyberciti.biz/faq/linux-add-a-swap-file-howto/>
+- <https://www.biaodianfu.com/linux-swap.html>
