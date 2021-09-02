@@ -1,12 +1,12 @@
 ---
-title: 利用Pika存储查询大数据
+title: Hive命令导出数据
 date: 2021-05-21 17:10
 Author: neoyin
 categories: 技术流
 tags:
  - python
  - pandas
-permalink: pika-save-bigdata
+permalink: hive-export-csv
 ---
 
 
