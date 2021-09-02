@@ -1,6 +1,6 @@
 ---
 title: Hive命令导出数据
-date: 2021-05-21 17:10
+date: 2021-05-23 17:10
 Author: neoyin
 categories: 技术流
 tags:
