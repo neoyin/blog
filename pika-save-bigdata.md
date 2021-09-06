@@ -4,8 +4,8 @@ date: 2021-05-21 17:10
 Author: neoyin
 categories: 技术流
 tags:
- - python
- - pandas
+ - bigdata
+ - pika
 permalink: pika-save-bigdata
 ---
 
